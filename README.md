@@ -91,7 +91,7 @@ To run the project locally, ensure you have the following installed:
 
 ## Report
 
-A report detailing how to use the app, its functionalities, expected outputs, and more is included in the project. This report provides in-depth explanations for each task and how to run them.
+A report detailing how to use the app, its functionalities, expected outputs, and more is included in the project. This report provides in-depth explanations for each task and how to run them. You can view and download it [here](./Rejection%20Letter.pdf).
 
 ---
 
