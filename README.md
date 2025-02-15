@@ -112,3 +112,7 @@ Feel free to fork the repository and contribute to the project. You can submit p
 ## License
 
 This project is open-source and available under the MIT License.
+
+---
+
+Feel free to explore the code and modify it for your own use cases!
